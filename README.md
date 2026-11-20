@@ -47,7 +47,10 @@ I learned how to crack password using the above two methods.
 
 # 6. Documented Evidences
 
-![whois output](crackedcongrat.jpg)
+![whois output](crack2.jpg)
+
+![whois output](cracked3.jpg)
+
 
 
 
